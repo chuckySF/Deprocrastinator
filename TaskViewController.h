@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TaskViewController.h
 //  Deprocrastinator
 //
 //  Created by Chucky on 3/21/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TaskViewController : UIViewController
 
 @end
-
